@@ -1,0 +1,12 @@
+<resources>
+    <!-- Tema base de tu app -->
+    <style name="Theme.AppDelicia01" parent="Theme.Material3.DayNight">
+        <!-- colores/atributos -->
+    </style>
+
+    <!-- Variante sin barra para el Splash -->
+    <style name="Theme.AppDelicia01.NoActionBar" parent="Theme.AppDelicia01">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
